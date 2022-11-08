@@ -17,6 +17,7 @@
 ![CircleCI](https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio)
+<p align="center"> <img src="https://holopin.io/api/user/board?user=vpr03" alt="vpr03's board" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpraharsha03&&theme=buefy&show_icons=true" alt="vpraharsha03" /> </p>
 
 <!--<img alt="C#" src="https://img.shields.io/badge/-C%23-228b22?style=flat-square&logo=C%23&logoColor=white">
