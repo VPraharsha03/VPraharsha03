@@ -1,5 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpraharsha03" alt="vpraharsha03" /> </p>
 <p align="center"> <img src="https://youberelentless.com/wp-content/uploads/2017/01/giant-bamboo.jpg" /> </p>
+<p align="center"> (Best Viewed in Dark Mode) </p>
+<!--<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&duration=3000&pause=1000&color=0EF71B&background=0D1117&width=600&height=200&lines=%3E+Hello+World+!" alt="Typing SVG" /></a>-->
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&duration=3000&pause=1000&color=0EF71B&width=600&height=200&lines=%3E+Hello+World+!" alt="Typing SVG" /></a>
 
 ### ⚡ Technologies
 
@@ -18,7 +21,7 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio)
 <p align="center"> <img src="https://holopin.io/api/user/board?user=vpr03" alt="vpr03's board" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpraharsha03&&theme=buefy&show_icons=true" alt="vpraharsha03" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpraharsha03&&theme=transparent&show_icons=true" alt="vpraharsha03" /> </p>
 
 <!--<img alt="C#" src="https://img.shields.io/badge/-C%23-228b22?style=flat-square&logo=C%23&logoColor=white">
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net">-->
