@@ -23,7 +23,7 @@
 
 #### 🧰 Frameworks and Libraries
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda)
-![Tauri](https://img.shields.io/badge/-Tauri-darkblue?style=flat-square&logo=Tauri)
+![Tauri](https://img.shields.io/badge/-Tauri-121011?style=flat-square&logo=Tauri)
 
 #### 🔧 VCS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
