@@ -1,26 +1,45 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpraharsha03" alt="vpraharsha03" /> </p>
-<p align="center"> <img src="https://youberelentless.com/wp-content/uploads/2017/01/giant-bamboo.jpg" /> </p>
-<p align="center"> (Best Viewed in Dark Mode) </p>
-<!--<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&duration=3000&pause=1000&color=0EF71B&background=0D1117&width=600&height=200&lines=%3E+Hello+World+!" alt="Typing SVG" /></a>-->
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=100&duration=3000&pause=1000&color=0EF71B&width=600&height=200&lines=%3E+Hello+World+!" alt="Typing SVG" /></a>
+### Hi there 👋
 
-### ⚡ Technologies
+- 🔭 I’m currently working on Flash Bootloader Project
+- 🌱 I’m currently learning about AUTOSAR, Automotive 🚗 Communication Protocols & Development Toolchains.
+- 😄 Pronouns: [he/him](https://pronoun.is/he)
+- ⚡ Fun fact: I'm a data hoarder.
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat-square)
+<p align="center"> <img src="https://holopin.io/api/user/board?user=vpr03" alt="vpr03's board" /> </p>
+
+### 🛠 Tools
+
+#### Development Environment
+![Windows](https://img.shields.io/badge/OS-Windows%2010-0078D6.svg?logo=windows&style=flat-square)
 ![WSL](https://img.shields.io/badge/-WSL-000000.svg?logo=linux&style=flat-square)
+
+#### 👨‍💻 Programming and Markup Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+<img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 ![Powershell](https://img.shields.io/badge/-Powershell-000000.svg?logo=powershell&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+#### 🧰 Frameworks and Libraries
+![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda)
+![Tauri](https://img.shields.io/badge/-Tauri-darkblue?style=flat-square&logo=Tauri)
+
+#### 🔧 VCS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+#### ☁ Cloud Hosting & Virtualization
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+#### ♾ CI/CD
 ![CircleCI](https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=flat-square)
+
+#### ⚙ IDEs & Tools
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio)
-<p align="center"> <img src="https://holopin.io/api/user/board?user=vpr03" alt="vpr03's board" /> </p>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpraharsha03&&theme=transparent&show_icons=true" alt="vpraharsha03" /> </p>
 
 <!--<img alt="C#" src="https://img.shields.io/badge/-C%23-228b22?style=flat-square&logo=C%23&logoColor=white">
