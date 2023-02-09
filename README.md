@@ -34,7 +34,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 #### ♾ CI/CD
-![CircleCI](https://img.shields.io/badge/-Circleci-343434.svg?logo=circleci&style=flat-square)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434.svg?logo=circleci&style=flat-square)
 
 #### ⚙ IDEs & Tools
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
