@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Flash Bootloader Project
 - 🌱 I’m currently learning about AUTOSAR, Automotive 🚗 Communication Protocols & Development Toolchains.
-- 😄 Pronouns: [he/him](https://pronoun.is/he)
+- 👀 I’m interested in learning about MicroPython & Rust
+- 😄 Pronouns: [he/him](https://pronouninator.xyz/#/he)
 - ⚡ Fun fact: I'm a data hoarder.
 
 <p align="center"> <img src="https://holopin.io/api/user/board?user=vpr03" alt="vpr03's board" /> </p>
