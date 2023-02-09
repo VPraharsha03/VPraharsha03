@@ -13,6 +13,7 @@
 #### Development Environment
 ![Windows](https://img.shields.io/badge/OS-Windows%2010-0078D6.svg?logo=windows&style=flat-square)
 ![WSL](https://img.shields.io/badge/-WSL-000000.svg?logo=linux&style=flat-square)
+![ZorinOS](https://img.shields.io/badge/OS-Zorin%20OS-0CC1F3.svg?logo=Zorin&logoColor=white&style=flat-square)
 
 #### 👨‍💻 Programming and Markup Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
@@ -25,6 +26,7 @@
 #### 🧰 Frameworks and Libraries
 ![Anaconda](https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=Anaconda)
 ![Tauri](https://img.shields.io/badge/-Tauri-121011?style=flat-square&logo=Tauri)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat-square)
 
 #### 🔧 VCS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -38,8 +40,10 @@
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434.svg?logo=circleci&style=flat-square)
 
 #### ⚙ IDEs & Tools
+![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=Sublime%20Text&logoColor=white&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio)
+![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?logo=Windows%20Terminal&logoColor=white&style=flat-square)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpraharsha03&&theme=transparent&show_icons=true" alt="vpraharsha03" /> </p>
 
