@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Flash Bootloader Project
-- 🌱 I’m currently learning about AUTOSAR, Automotive 🚗 Communication Protocols & Development Toolchains.
-- 👀 I’m interested in learning about MicroPython & Rust
+- 🌱 I’m currently learning about AUTOSAR, Automotive 🚗 Communication Protocols & Development Toolchains. 
+- 👀 I’m interested in learning about MicroPython <a><img width="16px" alt="MicroPython" title="MicroPython" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/micropython.svg"></a> & Rust <a><img width="16px" alt="Rust" title="Rust" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/rust.svg"></a>
 - 😄 Pronouns: [he/him](https://pronouninator.xyz/#/he)
 - ⚡ Fun fact: I'm a data hoarder.
 
