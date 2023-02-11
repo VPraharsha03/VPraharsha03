@@ -43,6 +43,7 @@
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=Sublime%20Text&logoColor=white&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio)
+![WezTerm](https://custom-icon-badges.demolab.com/badge/WezTerm-4E49EE.svg?logo=wez-term&logoColor=white&style=flat-square)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?logo=Windows%20Terminal&logoColor=white&style=flat-square)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpraharsha03&&theme=transparent&show_icons=true" alt="vpraharsha03" /> </p>
