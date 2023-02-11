@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning about AUTOSAR, Automotive 🚗 Communication Protocols & Development Toolchains. 
 - 👀 I’m interested in learning about MicroPython <a><img height="18px" width="18px" alt="MicroPython" title="MicroPython" src="https://cdn.simpleicons.org/micropython/595656"></a> & Rust <a><img height="18px" width="18px" alt="Rust" title="Rust" src="https://cdn.simpleicons.org/rust/5C412F"></a>
 - 😄 Pronouns: [he/him](https://pronouninator.xyz/#/he)
+- 📫 How to reach me: [e-mail](mailto:TheDevInstinct@skiff.com)
 - ⚡ Fun fact: I'm a data hoarder.
 
 <p align="center"> <img src="https://holopin.io/api/user/board?user=vpr03" alt="vpr03's board" /> </p>
