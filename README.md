@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/master/header.png)
+![Header](https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/master/header2.png)
 
 ### Hi there 👋
 
