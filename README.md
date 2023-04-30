@@ -40,6 +40,7 @@
 
 #### ☁ Cloud Hosting & Virtualization
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 
 #### ♾ CI/CD
@@ -62,3 +63,7 @@
 
 <!--<img alt="C#" src="https://img.shields.io/badge/-C%23-228b22?style=flat-square&logo=C%23&logoColor=white">
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net">-->
+
+### 😂 Here's some developer wisdom to brighten up your day 
+
+<p align="center"> <img src="https://dev-humor.vercel.app/api?theme=dark" alt="vpraharsha03" /> </p>
