@@ -16,7 +16,7 @@
 #### Development Environment
 ![Windows](https://img.shields.io/badge/OS-Windows%2010-0078D6.svg?logo=windows&style=plastic)
 ![WSL](https://img.shields.io/badge/-WSL-000000.svg?logo=linux&style=plastic)
-![ZorinOS](https://img.shields.io/badge/OS-Zorin%20OS-0CC1F3.svg?logo=Zorin&logoColor=white&style=plastic)
+![Nobara](https://img.shields.io/badge/OS-Nobara%20Linux-0CC1F3.svg?logo=Fedora&logoColor=blue&style=plastic)
 
 #### 👨‍💻 Programming and Markup Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python)
