@@ -14,20 +14,17 @@
 ### 🛠 Tools
 
 #### Development Environment
+[![Programming Languages](https://skillicons.dev/icons?i=windows,linux&theme=dark)]()
 ![Windows](https://img.shields.io/badge/OS-Windows%2010-0078D6.svg?logo=windows&style=plastic)
 ![WSL](https://img.shields.io/badge/-WSL-000000.svg?logo=linux&style=plastic)
 ![Nobara](https://img.shields.io/badge/OS-Nobara%20Linux-0CC1F3.svg?logo=Fedora&logoColor=blue&style=plastic)
 
 #### 👨‍💻 Programming and Markup Languages
-![Python](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python)
-<img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-![Powershell](https://img.shields.io/badge/-Powershell-000000.svg?logo=powershell&style=plastic)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+[![Programming Languages](https://skillicons.dev/icons?i=python,c,bash,powershell,html,css,markdown&theme=dark)]()
 
 #### 🧰 Frameworks and Libraries
+[![Frameworks](https://skillicons.dev/icons?i=anaconda,dotnet,keras,pytorch,tauri,tensorflow&theme=dark)]()
+
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=Anaconda&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
@@ -35,18 +32,25 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=plastic)
 
 #### 🔧 VCS
+[![Programming Languages](https://skillicons.dev/icons?i=git,github&theme=dark)]()
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic)
 
 #### ☁ Cloud Hosting & Virtualization
+[![Programming Languages](https://skillicons.dev/icons?i=heroku,vercel,docker&theme=dark)]()
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 
 #### ♾ CI/CD
+[![Programming Languages](https://skillicons.dev/icons?i=circleci&theme=dark)]()
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434.svg?logo=circleci&style=plastic)
 
 #### ⚙ IDEs & Tools
+[![Programming Languages](https://skillicons.dev/icons?i=sublime,vscode,visualstudio&theme=dark)]()
+<img src="https://raw.githubusercontent.com/wez/wezterm/baf9d970816e015bee41ed5eb9186ef7f71c454c/assets/icon/wezterm-icon.svg" alt="WezTerm" width="48"/>
+<img src="https://raw.githubusercontent.com/microsoft/terminal/b8f402f64bf50e75148da84e9c42404ad3bdbb87/res/terminal/Terminal.svg"
+alt="Windows Terminal" width="42"/>
 ![SublimeText](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=Sublime%20Text&logoColor=white&style=plastic)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio)
