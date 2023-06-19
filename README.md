@@ -20,7 +20,7 @@
 ![Nobara](https://img.shields.io/badge/OS-Nobara%20Linux-0CC1F3.svg?logo=Fedora&logoColor=blue&style=plastic)
 
 #### 👨‍💻 Programming and Markup Languages
-[![Programming Languages](https://skillicons.dev/icons?i=python,c,bash,powershell,html,css,markdown&theme=dark)]()
+[![Programming Languages](https://skillicons.dev/icons?i=python,c,cs,bash,powershell,html,css,markdown&theme=dark)]()
 
 #### 🧰 Frameworks and Libraries
 [![Frameworks](https://skillicons.dev/icons?i=anaconda,dotnet,keras,pytorch,tauri,tensorflow&theme=dark)]()
