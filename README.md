@@ -35,7 +35,7 @@
 [![VCS](https://skillicons.dev/icons?i=git,github&theme=dark)]()
 
 #### ☁ Cloud Hosting & Virtualization
-[![Programming Languages](https://skillicons.dev/icons?i=heroku,vercel,docker&theme=dark)]()
+[![Programming Languages](https://skillicons.dev/icons?i=gcp,heroku,vercel,docker&theme=dark)]()
 
 #### ♾ CI/CD
 [![Programming Languages](https://skillicons.dev/icons?i=circleci&theme=dark)]()
