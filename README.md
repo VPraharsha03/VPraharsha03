@@ -32,15 +32,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=plastic)
 
 #### 🔧 VCS
-[![Programming Languages](https://skillicons.dev/icons?i=git,github&theme=dark)]()
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=plastic)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic)
+[![VCS](https://skillicons.dev/icons?i=git,github&theme=dark)]()
 
 #### ☁ Cloud Hosting & Virtualization
 [![Programming Languages](https://skillicons.dev/icons?i=heroku,vercel,docker&theme=dark)]()
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=plastic&logo=vercel)
-![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 
 #### ♾ CI/CD
 [![Programming Languages](https://skillicons.dev/icons?i=circleci&theme=dark)]()
