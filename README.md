@@ -24,6 +24,7 @@
 
 #### 🧰 Frameworks and Libraries
 [![Frameworks](https://skillicons.dev/icons?i=anaconda,dotnet,keras,pytorch,tauri,tensorflow&theme=dark)]()
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/huggingface-svg_1.svg" alt="HuggingFace" width="52"/>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=Anaconda&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
