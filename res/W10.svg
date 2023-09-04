@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 237" width="256" height="237">
+	<title>huggingface-svg</title>
+	<defs>
+		<image width="240" height="240" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADwBAMAAADMe/ShAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAFVBMVEUAAAAAeNUAeNQAd9QAeNQAeNT///8Px8quAAAABXRSTlMAxrmPmW4K3ZAAAAABYktHRAZhZrh9AAAAB3RJTUUH5gkcAhswl333MQAAAJ9JREFUeNrt1kENgDAURMFvoQk1AA5wgAQO9W+FpHWwpybMu2/mujXC3pr1dF9gMBgMBoPBYDAYDAaDwWAwGAwGg8FgMBgMBoPBYDAYDAaDwWAwGAwGg8FgMBi8C3yGXQu+031JkvavhR1r/qR7RwAMBoPBYDAYDAaDwWAwGAwGg8FgMBgMBoPBYDAYDAaDwWAwGAwGg8FgMBgMBv8e/gDPLEdWBtdAbwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0wOS0yOFQwMjoyNzo0OCswMDowMDbpakkAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMDktMjhUMDI6Mjc6NDgrMDA6MDBHtNL1AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #242938 } 
+	</style>
+	<path id="rect20" class="s0" d="m0 40c0-22.1 17.9-40 40-40h176c22.1 0 40 17.9 40 40v157c0 22.1-17.9 40-40 40h-176c-22.1 0-40-17.9-40-40z"/>
+	<use id="Windows_logo_-_2021.svg" href="#img1" transform="matrix(.848,0,0,.847,26.871,16.729)"/>
+</svg>
