@@ -7,5 +7,5 @@
 		.s0 { fill: #242938 } 
 	</style>
 	<path id="rect20" class="s0" d="m0 40c0-22.1 17.9-40 40-40h176c22.1 0 40 17.9 40 40v157c0 22.1-17.9 40-40 40h-176c-22.1 0-40-17.9-40-40z"/>
-	<use id="Windows_logo_-_2021.svg" href="#img1" transform="matrix(.848,0,0,.847,26.871,16.729)"/>
+	<use id="Windows_logo_-_2021.svg" href="#img1" transform="matrix(.777,0,0,.778,35.306,25.094)"/>
 </svg>
