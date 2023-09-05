@@ -23,7 +23,7 @@
 #### 🧰 Frameworks and Libraries
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,pytorch,tauri,tensorflow&theme=dark)]()
 <img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/huggingface-svg_1.svg" alt="HuggingFace" width="52"/>
-<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/keras.svg" alt="Keras" width="52"/>
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/e3b510fafd04d8000574f8413f5dd7e149e56173/res/keras.svg" alt="Keras" width="52"/>
 <img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/Anaconda.svg" alt="Anaconda" width="52"/>
 
 #### 🔧 VCS
