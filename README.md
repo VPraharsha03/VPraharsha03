@@ -15,7 +15,7 @@
 
 #### Development Environment
 [![Programming Languages](https://skillicons.dev/icons?i=linux&theme=dark)]()
-<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/W10.svg" alt="WezTerm" width="52"/>
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/W10.svg" alt="Windows 10" width="52"/>
 
 #### 👨‍💻 Programming and Markup Languages
 [![Programming Languages](https://skillicons.dev/icons?i=python,c,cs,bash,powershell,html,css,markdown&theme=dark)]()
@@ -23,7 +23,8 @@
 #### 🧰 Frameworks and Libraries
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,pytorch,tauri,tensorflow&theme=dark)]()
 <img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/huggingface-svg_1.svg" alt="HuggingFace" width="52"/>
-<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/keras.svg" alt="WezTerm" width="52"/>
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/keras.svg" alt="Keras" width="52"/>
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/Anaconda.svg" alt="Anaconda" width="52"/>
 
 #### 🔧 VCS
 [![VCS](https://skillicons.dev/icons?i=git,github&theme=dark)]()
@@ -32,12 +33,13 @@
 [![Programming Languages](https://skillicons.dev/icons?i=gcp,heroku,vercel,docker&theme=dark)]()
 
 #### ♾ CI/CD
+<img src="https://github.com/VPraharsha03/VPraharsha03/raw/readme-test-1/res/CircleCI.svg" alt="CircleCI" width="52"/>
 
 #### ⚙ IDEs & Tools
 [![Programming Languages](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)]()
-<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/SublimeText.svg" alt="WezTerm" width="52"/>
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/readme-test-1/res/SublimeText.svg" alt="SublimeText" width="52"/>
 <img src="https://raw.githubusercontent.com/wez/wezterm/baf9d970816e015bee41ed5eb9186ef7f71c454c/assets/icon/wezterm-icon.svg" alt="WezTerm" width="48"/>
-<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/67f4b91707a751beaf20cfce457c85ec1a5d0b9a/res/WindowsTerminal.svg" alt="WezTerm" width="52"/>
+<img src="https://raw.githubusercontent.com/VPraharsha03/VPraharsha03/67f4b91707a751beaf20cfce457c85ec1a5d0b9a/res/WindowsTerminal.svg" alt="Windows Terminal" width="52"/>
 
 ### 📊 GitHub Stats
 
