@@ -4,7 +4,7 @@
 class VPraharsha03:
   def __init__(self):
     self.pronoun = "He/Him"
-    self.interests = ['AI', 'ML', 'DL', 'LLMs', 'Privacy', 'Security']
+    self.interests = ['AI', 'ML', 'DL', 'LLMs', 'Privacy', 'Security', 'Automation', 'Scripting']
     self.fun_fact = "I'm a data hoarder"
     self.description = '''
         I write code that hopefully works 😋
